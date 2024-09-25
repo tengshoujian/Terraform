@@ -1,6 +1,6 @@
 variable "aws_region" {
   type    = string
-  default = "ap-northeast-2"
+  default = "cn-north-1"
 }
 
 variable "default_subnet" {
