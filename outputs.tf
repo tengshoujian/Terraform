@@ -1,11 +1,11 @@
-output "vpc_id" {
-  value = aws_vpc.example.id
-}
+# output "vpc_id" {
+#   value = aws_vpc.example.id
+# }
 
-output "vpc_arn" {
-  value = aws_vpc.example.arn
-}
+# output "vpc_arn" {
+#   value = aws_vpc.example.arn
+# }
 
-output "vpc_cidr" {
-  value = aws_vpc.example.cidr_block
-}
+# output "vpc_cidr" {
+#   value = aws_vpc.example.cidr_block
+# }
